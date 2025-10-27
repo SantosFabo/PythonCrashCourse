@@ -1,0 +1,2 @@
+# PythonCrashCourse
+Softserve_PythonCrash_activities
